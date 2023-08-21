@@ -13,7 +13,7 @@ In this website...<br/>
 
 - This was a team-based and a real-world project
   <br/>
-^ Objective(s):
+^ Objective(s):<br/>
   > re-design the UI of the existing website to make it feasible, usable, intuitive, and interactive<br/><br/>
 ^ Mission Criteria:<br/>
   > recreate the login entry<br/>
@@ -25,7 +25,7 @@ In this website...<br/>
 
 - This was a small project that I did myself
   <br/>
-^ Objective(s):
+^ Objective(s):<br/>
   > re-design the structure and the UI of the existing website to improve conveniency and to reduce the wait times<br/><br/>
 ^ Mission Criteria:<br/>
   > recreate and simplify the navigation bar<br/>

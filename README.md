@@ -12,8 +12,8 @@ In this website...<br/>
 ## Project 1 | Redesigning an internal web-based communication portal for a telecommunication company
 
 - This was a team-based and a real-world project
-- Objective(s): re-design the UI of the existing website to make it feasible, usable, intuitive, and interactive
-- Mission Criteria:<br/>
+* Objective(s): re-design the UI of the existing website to make it feasible, usable, intuitive, and interactive<br/>
+^ Mission Criteria:<br/>
   <li>recreate the login entry</li><br/>
   <li>recreate the UI of the pages that connect to the main menu</li><br/>
   <li>recreate the structure of a page called "video" --- re-construct the architecture to make it searchable, save with custom names, etc.</li>
@@ -22,8 +22,8 @@ In this website...<br/>
 ### Project 2 | Redesign a website for a travel insurance company
 
 - This was a small project that I did myself
-- Objective(s): re-design the structure and the UI of the existing website to improve conveniency and to reduce the wait times
-- Mission Criteria:<br/>
+* Objective(s): re-design the structure and the UI of the existing website to improve conveniency and to reduce the wait times<br/>
+^ Mission Criteria:<br/>
   <li>recreate and simplify the navigation bar</li><br/>
   <li>recreate the site map to accommodate the most important information to be foremost spotted among customers</li>
 
